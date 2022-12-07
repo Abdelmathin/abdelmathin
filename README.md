@@ -5,4 +5,4 @@
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-libft								|	[libft/](https://github.com/Abdelmathin/libft)		| *.c, libft.h, Makefile | [125](https://github.com/Abdelmathin/42cursus-libft)
+libft								|	[libft/](https://github.com/Abdelmathin/42cursus-libft)		| *.c, libft.h, Makefile | [125](https://github.com/Abdelmathin/42cursus-libft)
