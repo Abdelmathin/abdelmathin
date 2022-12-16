@@ -1,1 +1,1 @@
-![morocco](morocco-flag-png-large.png)
+![morocco](heart.gif)
