@@ -1,3 +1,3 @@
-![morocco](/Abdelmathin/private/blob/master/heart.gif)
+![morocco](heart.gif)
 
 
