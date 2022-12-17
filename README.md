@@ -6,7 +6,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=abdelmathin&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.abdelmathin-habachi.ga/"> <img align="center" src="insta.png" height="50" width="210" alt="abdelmathin" /></a>
+  <a href="https://www.instagram.com/abdelmathin"> <img align="center" src="insta.png" height="50" width="210" alt="abdelmathin" /></a>
 </p>
 
 <!--
