@@ -1,4 +1,4 @@
-<!-- ![whoami](vidh.gif) -->
+<!-- ![whoami](earth.gif) -->
 <p align="center">
   <img height="50%" width="auto" src ="vidh.gif">
 </p>
