@@ -1,0 +1,14 @@
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/abdelmathin"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/abdelmathin"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/abdelmathin"
