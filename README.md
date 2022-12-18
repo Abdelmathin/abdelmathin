@@ -6,7 +6,7 @@
   <br>
   <br>
   <a href="https://www.instagram.com/abdelmathin"> <img align="center" src="insta.png" height="50" width="210" alt="abdelmathin" /></a>
-  <img style="position:fixed;" height="100%" width="100%" src ="earth.gif">
+  <img style="position: absolute;left:0%;top:0%;" height="100%" width="100%" src ="earth.gif">
 </p>
 
 <!--
