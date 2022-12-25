@@ -8,6 +8,7 @@
   <br>
   <br>
   <a href="https://www.instagram.com/abdelmathin"> <img align="center" src="insta.png" height="50" width="210" alt="abdelmathin" /></a>
+  <a href="https://www.linkedin.com/in/abdelmathin-habachi-26999021a/"> <img align="center" src="habachi/images/linkedin.webp" height="50" width="210" alt="abdelmathin" /></a>
 </p>
 
 <!--
