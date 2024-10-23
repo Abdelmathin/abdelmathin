@@ -22,11 +22,25 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
 
 ### 🛠 **My Tech Toolbox**
 
-- **Languages:** Python, Java, C++, C, JavaScript, Bash  
-- **Frameworks:** Spring Boot, Django, Flask, ReactJS  
-- **Cloud/DevOps:** AWS, Docker, Kubernetes, Terraform, K3d, ArgoCD, GitHub Actions  
-- **Databases:** MariaDB, MySQL, PostgreSQL  
-- **Other:** AI/ML, CI/CD, Git  
+```python
+class AbdelmathinToolbox:
+    def __init__(self):
+        self.languages    = ["Python", "Java", "C++", "C", "JavaScript", "Bash"]
+        self.frameworks   = ["Spring Boot", "Django", "Flask", "ReactJS"]
+        self.cloud_devops = ["AWS", "Docker", "Kubernetes", "Terraform", "K3d", "ArgoCD", "GitHub Actions"]
+        self.databases    = ["MariaDB", "MySQL", "PostgreSQL"]
+        self.other_skills = ["AI/ML", "CI/CD", "Git"]
+    
+    def work(self):
+        print("Building scalable solutions with top-notch technology 🚀")
+
+    def take_a_break(self):
+        print("Grabbing a coffee ☕ while AI handles the rest!")
+
+# Activate the toolbox
+abdelmathin = AbdelmathinToolbox()
+abdelmathin.work()
+```
 
 ---
 
