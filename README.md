@@ -27,7 +27,7 @@ class AbdelmathinToolbox:
     def __init__(self):
         self.languages    = ["Python", "Java", "C++", "C", "JavaScript", "Bash"]
         self.frameworks   = ["Spring Boot", "Django", "Flask", "ReactJS"]
-        self.cloud_devops = ["AWS", "Docker", "Kubernetes", "Terraform", "K3d", "ArgoCD", "GitHub Actions"]
+        self.cloud_devops = ["AWS", "Docker", "Terraform", "K3d", "ArgoCD", "GitHub Actions"]
         self.databases    = ["MariaDB", "MySQL", "PostgreSQL"]
         self.other_skills = ["AI/ML", "CI/CD", "Git"]
     
