@@ -50,7 +50,7 @@ Explore my repositories to see more of what I'm working on and contributing to t
 
 ### 🏆 **Achievements**
 
-- Ranked **56th globally** in the Codingame Fall Challenge 2023.
+- Ranked **57th globally** in the Codingame Fall Challenge 2023.
 - Created solutions for the **CPC Bootcamp** and **CSES Problem Set**, showcasing problem-solving skills in C++ and Python.
 - Built a **client-server encryption** project with C++ and separate encryption/decryption executables.
 
