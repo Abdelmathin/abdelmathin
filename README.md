@@ -50,6 +50,7 @@ Explore my repositories to see more of what I'm working on and contributing to t
 
 ### 🏆 **Achievements**
 
+- Top Scorer of the Programming Tournament at **1337 Coding School**, with **59392** points in 2024!
 - Ranked **57th globally** in the Codingame Fall Challenge 2023.
 - Created solutions for the **CPC Bootcamp** and **CSES Problem Set**, showcasing problem-solving skills in C++ and Python.
 - Built a **client-server encryption** project with C++ and separate encryption/decryption executables.
