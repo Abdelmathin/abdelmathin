@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
             <tr />
             <tr>
                <td align="center">
-                  <a href="https://poloclub.github.io/mememo">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                   </a>
                </td>
                <td align="center">
-                  <a href="https://arxiv.org/pdf/2407.01972.pdf">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                   </a>
                </td>
                <td align="center">
-                  <a href="https://youtu.be/ypbPymC6cV8">
+                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-youtube-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-youtube-dark.svg" />
