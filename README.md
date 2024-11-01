@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
             <tr>
                <td colspan="4">
                <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
-                <img src="docs/assets/img/codingame-certificate-ai.png" width="220px" /></a></td>
+                <img src="docs/assets/img/codingame-certificate-ai.jpeg" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
@@ -77,7 +77,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
             <tr>
                <td colspan="4">
                <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
-                <img src="docs/assets/img/codingame-certificate-python3.png" width="220px" /></a></td>
+                <img src="docs/assets/img/codingame-certificate-python3.jpeg" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
@@ -124,7 +124,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
             <tr>
                <td colspan="4">
                <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
-                <img src="docs/assets/img/codingame-certificate-cpp.png" width="220px" /></a></td>
+                <img src="docs/assets/img/codingame-certificate-cpp.jpeg" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
