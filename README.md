@@ -68,7 +68,6 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
          </table>
       </td>
    </tr>
-   <tr />
 </table>
 
 ---
