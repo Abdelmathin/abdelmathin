@@ -74,19 +74,19 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
          <table>
             <tr>
                <td colspan="4">
-               <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
-                <img src="docs/assets/img/codingame-certificate-ai.png" width="220px" /></a></td>
+               <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
+                <img src="docs/assets/img/codingame-certificate-python3.png" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg"><strong>AI certificate</strong></a>, awarded for completing an AI challenge.
+                <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw"><strong>AI certificate</strong></a>, awarded for completing an AI challenge.
                </td>
             </tr>
             <tr />
             <tr>
                <td align="center">
-                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
@@ -95,7 +95,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                   </a>
                </td>
                <td align="center">
-                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
@@ -104,7 +104,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                   </a>
                </td>
                <td align="center">
-                  <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
+                  <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-youtube-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-youtube-dark.svg" />
