@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw"><strong>Python certificate</strong></a>, awarded for completing an AI challenge.
+                <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw"><strong>Python certificate</strong></a>, awarded for completing an Python challenge.
                </td>
             </tr>
             <tr />
@@ -127,7 +127,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ"><strong>C++ certificate</strong></a>, awarded for completing an AI challenge.
+                <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ"><strong>C++ certificate</strong></a>, awarded for completing an C++ challenge.
                </td>
             </tr>
             <tr />
