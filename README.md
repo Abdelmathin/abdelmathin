@@ -157,7 +157,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                      <picture>
                         <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
                         <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                        <img align="center" src="./docs/assets/icons/icon-github-dark.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
