@@ -5,7 +5,7 @@ _Transforming ideas into scalable, efficient solutions._
 
 Welcome to my GitHub profile! ❤️
 
-I'm Abdelmathin, a software engineer with strong expertise in backend development, cloud infrastructure, and AI/ML solutions. As a problem solver and proud member of the <a href="https://www.42network.org">42 Network</a> and <a href="https://www.linkedin.com/school/1337-coding-school">1337 Coding School</a>, I’m driven to explore cutting-edge technologies and create impactful solutions.
+I'm <a href="http://abdelmathin.com/">Abdelmathin</a>, a software engineer with strong expertise in backend development, cloud infrastructure, and AI/ML solutions. As a problem solver and proud member of the <a href="https://www.42network.org">42 Network</a> and <a href="https://www.linkedin.com/school/1337-coding-school">1337 Coding School</a>, I’m driven to explore cutting-edge technologies and create impactful solutions.
 
 ---
 
