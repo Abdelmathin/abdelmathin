@@ -61,9 +61,9 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                <td align="center">
                   <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
@@ -108,9 +108,9 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                <td align="center">
                   <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
@@ -155,9 +155,9 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                <td align="center">
                   <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
                      <picture>
-                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
-                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
-                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
                      </picture>
                   </a>
                </td>
