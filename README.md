@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                </td>
             </tr>
             <tr />
-            <tr>
+            <!-- <tr>
                <td align="center">
                   <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg">
                      <picture>
@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                      </picture>
                   </a>
                </td>
-            </tr>
+            </tr> -->
          </table>
       </td>
       <!-- end item -->
@@ -86,7 +86,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                </td>
             </tr>
             <tr />
-            <tr>
+            <!-- <tr>
                <td align="center">
                   <a href="https://www.codingame.com/certification/bkyw-Swchj50O3zvzPhwOw">
                      <picture>
@@ -114,7 +114,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                      </picture>
                   </a>
                </td>
-            </tr>
+            </tr> -->
          </table>
       </td>
       <!-- end item -->
@@ -133,7 +133,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                </td>
             </tr>
             <tr />
-            <tr>
+            <!-- <tr>
                <td align="center">
                   <a href="https://www.codingame.com/certification/_jOvCzTzOLXJVHIMnk1ZeQ">
                      <picture>
@@ -161,7 +161,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
                      </picture>
                   </a>
                </td>
-            </tr>
+            </tr> -->
          </table>
       </td>
       <!-- end item -->
