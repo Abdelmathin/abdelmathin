@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelmathin Habachi
 
-**Software Engineer | Backend Developer | Cloud Infrastructure Specialist**  
+**AI Software Engineer | Backend Developer | Cloud Infrastructure Specialist**  
 _Transforming ideas into scalable, efficient solutions._
 
 Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer with **over many years of experience** in backend development, cloud infrastructure, and AI/ML solutions. As a lifelong learner and member of the 42 Network, I strive to create impactful software solutions while constantly exploring new technologies.
