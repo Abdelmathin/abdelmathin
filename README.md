@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                Codingame <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg"><strong>AI certificate</strong></a>, awarded for completing an AI challenge.
+                <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg"><strong>AI certificate</strong></a>, awarded for completing an AI challenge.
                </td>
             </tr>
             <tr />
@@ -80,7 +80,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                Codingame <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg"><strong>AI certificate</strong></a>, awarded for completing an AI challenge.
+                <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg"><strong>AI certificate</strong></a>, awarded for completing an AI challenge.
                </td>
             </tr>
             <tr />
@@ -127,7 +127,7 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
             <tr />
             <tr>
                <td width="220px" height="110px" vertical-align="top" colspan="4">
-                Codingame <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg"><strong>AI certificate</strong></a>, awarded for completing an AI challenge.
+                <a href="https://www.codingame.com/certification/DmACdf5hCdT9pMiLeoVZtg"><strong>AI certificate</strong></a>, awarded for completing an AI challenge.
                </td>
             </tr>
             <tr />
