@@ -5,7 +5,7 @@ _Transforming ideas into scalable, efficient solutions._
 
 Welcome to my GitHub profile! ❤️
 
-I'm Abdelmathin, a dedicated software engineer with extensive experience in backend development, cloud infrastructure, and AI/ML solutions. As a passionate problem solver and lifelong learner, I'm a proud member of the <a href="https://www.42network.org">42 Network</a>, where I continually hone my skills and explore cutting-edge technologies.
+I'm Abdelmathin, a dedicated software engineer with extensive experience in backend development, cloud infrastructure, and AI/ML solutions. As a passionate problem solver and lifelong learner, I'm a proud member of the <a href="https://www.42network.org">42 Network</a> and <a href="https://www.linkedin.com/school/1337-coding-school">1337 Coding School</a>, where I continually hone my skills and explore cutting-edge technologies.
 
 ---
 
