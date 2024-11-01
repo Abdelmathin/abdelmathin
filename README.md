@@ -20,6 +20,59 @@ Welcome to my GitHub profile! I'm Abdelmathin, a passionate software engineer wi
 
 ---
 
+<table>
+   <tr height="320px">
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://github.com/poloclub/mememo">
+                <img src="docs/assets/img/codingame-certificate-ai.png" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                Codingame <a href="https://github.com/poloclub/mememo"><strong>AI certificate</strong></a>, awarded for completing an AI challenge.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <td align="center">
+                  <a href="https://poloclub.github.io/mememo">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://arxiv.org/pdf/2407.01972.pdf">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://youtu.be/ypbPymC6cV8">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-youtube-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-youtube-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-youtube-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+            </tr>
+         </table>
+      </td>
+   </tr>
+   <tr />
+</table>
+
+---
+
 ### 🛠 **My Tech Toolbox**
 
 ```python
