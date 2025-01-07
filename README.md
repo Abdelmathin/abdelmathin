@@ -220,6 +220,12 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 ---
 
+### 📬 **Other**
+
+- **[Leetcode](https://leetcode.com/u/Abdelmathin/))**
+
+---
+
 ### ⚡ **Fun Fact**
 
 When I'm not coding, you can find me exploring the latest in AI, solving competitive programming challenges, or tinkering with cloud infrastructure.  
