@@ -223,6 +223,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 ### 📬 **Other**
 
 - **[Leetcode](https://leetcode.com/u/Abdelmathin/)**
+- **[CSES](https://cses.fi/user/268780)**
 
 ---
 
