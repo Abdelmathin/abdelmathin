@@ -224,6 +224,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out 
 
 - **[Leetcode](https://leetcode.com/u/Abdelmathin/)**
 - **[CSES](https://cses.fi/user/268780)**
+- **[CodinGame](https://www.codingame.com/profile/e860d1222214dbf7b38c7ec3646307ea5701455)**
 
 ---
 
