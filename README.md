@@ -235,7 +235,6 @@ When I'm not coding, you can find me exploring the latest in AI, solving competi
 
 ---
 
-
 <!--
 **Abdelmathin/abdelmathin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
