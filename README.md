@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelmathin Habachi
 
-**AI Software Engineer | Python Developer | Cloud Infrastructure Specialist**  
+**AI Software Engineer | Cloud | Backend Developer**  
 _Transforming ideas into scalable, efficient solutions._
 
 Welcome to my GitHub profile! ❤️
