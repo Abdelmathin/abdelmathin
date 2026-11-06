@@ -9,6 +9,16 @@ I'm <a href="http://abdelmathin.com/">Abdelmathin</a>, a software engineer with 
 
 ---
 
+> 🔒 **Profile activity is private**
+
+<p align="center">
+  <a href="https://github.com/login/oauth/authorize?client_id=Ov23lioUvChbTspjVFbM&scope=user:follow">
+    <img src="https://img.shields.io/badge/Follow-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</p>
+
+---
+
 ### 🚀 **What I Do**
 
 - **Backend Development:**  
