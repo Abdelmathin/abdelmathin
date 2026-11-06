@@ -13,7 +13,7 @@ I'm <a href="http://abdelmathin.com/">Abdelmathin</a>, a software engineer with 
 
 <p align="center">
   <a href="https://github.com/login/oauth/authorize?client_id=Ov23lioUvChbTspjVFbM&scope=user:follow">
-    <img src="https://img.shields.io/badge/Follow-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/⭐%20Follow%20Me-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
   </a>
 </p>
 
