@@ -9,7 +9,7 @@ I'm <a href="http://abdelmathin.com/">Abdelmathin</a>, a software engineer with 
 
 <p align="center">
   <a href="https://github.com/login/oauth/authorize?client_id=Ov23lioUvChbTspjVFbM&scope=user:follow">
-    <img src="http://abdelmathin.com/assets/img/follow-1e90ff.svg" alt="Follow on GitHub" />
+    <img src="http://abdelmathin.com/assets/img/follow-me-1e90ff.svg" alt="Follow on GitHub" />
   </a>
 </p>
 
