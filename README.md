@@ -7,11 +7,9 @@ Welcome to my GitHub profile! ❤️
 
 I'm <a href="http://abdelmathin.com/">Abdelmathin</a>, a software engineer with strong expertise in backend development, cloud infrastructure, and AI/ML solutions. As a problem solver and proud member of the <a href="https://www.42network.org">42 Network</a> and <a href="https://www.linkedin.com/school/42paris">42 Paris</a>, I’m driven to explore cutting-edge technologies and create impactful solutions.
 
-> 🔒 **Profile activity is private**
-
 <p align="center">
   <a href="https://github.com/login/oauth/authorize?client_id=Ov23lioUvChbTspjVFbM&scope=user:follow">
-    <img src="http://abdelmathin.com/assets/img/follow-me-1e90ff.svg" alt="Follow on GitHub" />
+    <img src="http://abdelmathin.com/assets/img/follow-1e90ff.svg" alt="Follow on GitHub" />
   </a>
 </p>
 
